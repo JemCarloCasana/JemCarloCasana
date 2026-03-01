@@ -1,8 +1,7 @@
 # 💫 About Me:
  Jem Carlo M. Casana
  
-**BSIT Student at PHINMA-UPang** | Aspiring Full Stack Software Engineer.  
-*Building, breaking, and understanding how software works.*
+**BSIT Student at PHINMA-UPang** | Aspiring Full Stack Software Engineer. 
 
 
 ## 🌐 Socials:
@@ -17,5 +16,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JemCarloCasana&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
